@@ -1,0 +1,47 @@
+version: "3"
+services:
+  igrant_web_app:
+    build:
+      dockerfile: igrant_docker/Dockerfile
+      context: ../
+    image: "igrant_web_app:1.0.0"
+  igrant_app_backend:
+    image: "igrant_web_app:1.0.0"
+    container_name: igrant_web_app_backend_container
+    working_dir: /app/igrant_nest_api_app/dist/
+    restart: always
+    ports:
+      - "4000:4000"
+    command: ["node", "main.js"]
+    environment:
+      - DB_URL=mongodb://igrant_mongo:27017/igrant?authSource=admin
+      - DB_USERNAME=admin
+      - DB_PASSWORD=rap12345
+      - PORT=4000
+      - BACKEND_IP=0.0.0.0
+      - jwt_expire_time=10000s
+      - JWT_SECRET_KEY=rap@ai
+      - SWAGGER_PATH=.
+      - GLOBAL_PREFIX=api
+      - AUDIT_FILE_PATH=/app/igrant_nest_api_app/storage/audit_files
+      - ANSWER_ATTACHMENT_PATH=/app/igrant_nest_api_app/storage/answer_files
+      - AWS_ACCESS_KEY=AKIAR4R7EI4ZEDPUOCV7
+      - LOGGER_PATH=/app/igrant_nest_api_app/storage/logs/app.log
+      - LOW_RISK=50
+      - HIGH_RISK=60
+      - RISK_API=http://157.245.96.248:5002/calculate_risk # please modify url to server where risk api is running
+
+    volumes:
+      - /home/igrant_shared_volumes/igrant_files/audit_files:/app/igrant_nest_api_app/storage/audit_files
+      - /home/igrant_shared_volumes/igrant_files/logs:/app/igrant_nest_api_app/storage/logs/
+  igrant_mongodb:
+    image: "mongo:latest"
+    container_name: igrant_mongo
+    environment:
+      - MONGODB_DATABASE=igrant
+      - MONGO_INITDB_ROOT_USERNAME=admin       
+      - MONGO_INITDB_ROOT_PASSWORD=rap12345
+    volumes:
+      - /home/igrant_shared_volumes/db:/data/db
+    ports:
+      - '37017:27017'

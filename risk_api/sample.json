@@ -1,0 +1,2279 @@
+{
+    "grant_id": "8L97IR76985-13",
+    "grantee_grant_id": "60ac755570f72e4212c493f6",
+    "type": "ongoing",
+    "question_answer": [
+        {
+            "_id": "60ac9fe4ac25727db1e364e0",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199f8c",
+                "sequence_no": 1,
+                "risk_type": "Performance Risk",
+                "question": "Program goals and objectives are not aligned with agreed  strategies, policies and guidelines",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Fully Aligned",
+                        "weightage": 1
+                    },
+                    {
+                        "value": "Partially Aligned",
+                        "weightage": 2
+                    },
+                    {
+                        "value": "Not Aligned",
+                        "weightage": 4
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acb6f531454d0d4a20596b",
+                "value": "Partially Aligned",
+                "weightage": 2,
+                "file_path": "60ac9fe4ac25727db1e364e0/60acb6f531454d0d4a20596b/vadivel.jpeg"
+            },
+            "createdAt": "2021-05-25T06:57:40.690Z",
+            "updatedAt": "2021-05-25T08:36:05.990Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e372da",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199f8d",
+                "sequence_no": 2,
+                "risk_type": "Performance Risk",
+                "question": "Overall proposal has not been well translated into the grant implementation",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Fully Translated",
+                        "weightage": 1
+                    },
+                    {
+                        "value": "Partially Translated",
+                        "weightage": 2
+                    },
+                    {
+                        "value": "Not Translated",
+                        "weightage": 5
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc1e",
+                "value": "Partially Translated",
+                "weightage": 2
+            },
+            "createdAt": "2021-05-25T09:16:55.417Z",
+            "updatedAt": "2021-05-25T09:19:11.491Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e372dc",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199f8e",
+                "sequence_no": 3,
+                "risk_type": "Performance Risk",
+                "question": "Same Field or Related Field",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Same Field",
+                        "weightage": 1
+                    },
+                    {
+                        "value": "Different Field",
+                        "weightage": 2
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc1f",
+                "value": "Same Field",
+                "weightage": 1
+            },
+            "createdAt": "2021-05-25T09:16:55.417Z",
+            "updatedAt": "2021-05-25T09:19:11.492Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e372de",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199f8f",
+                "sequence_no": 4,
+                "risk_type": "Performance Risk",
+                "question": "Grantee Staff members inexperienced with limited skills to support award execution, limiting progress toward performance goals",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Low",
+                        "weightage": 1
+                    },
+                    {
+                        "value": "Medium",
+                        "weightage": 2
+                    },
+                    {
+                        "value": "High",
+                        "weightage": 3
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc20",
+                "value": "Medium",
+                "weightage": 2
+            },
+            "createdAt": "2021-05-25T09:16:55.417Z",
+            "updatedAt": "2021-05-25T09:19:11.492Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e372e0",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199f90",
+                "sequence_no": 5,
+                "risk_type": "Performance Risk",
+                "question": "Does the recipient maintain sufficient records to demonstrate compliance with  program requirements",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Well Documented",
+                        "weightage": 1
+                    },
+                    {
+                        "value": "Partially Documented",
+                        "weightage": 2
+                    },
+                    {
+                        "value": "Not Documented",
+                        "weightage": 4
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc21",
+                "value": "Well Documented",
+                "weightage": 1
+            },
+            "createdAt": "2021-05-25T09:16:55.418Z",
+            "updatedAt": "2021-05-25T09:19:11.492Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e372e2",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199f91",
+                "sequence_no": 6,
+                "risk_type": "Performance Risk",
+                "question": "Do the records demonstrate that no award funds were used to carry out activities authorized only to be carried out by grantees",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes",
+                        "weightage": 1
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 3
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc22",
+                "value": "No",
+                "weightage": 3
+            },
+            "createdAt": "2021-05-25T09:16:55.418Z",
+            "updatedAt": "2021-05-25T09:19:11.492Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e372e4",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199f92",
+                "sequence_no": 7,
+                "risk_type": "Performance Risk",
+                "question": "Does the recipient monitor its activities to ensure compliance with applicable program requirements and that performance expectations are being achieved",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Fully monitored",
+                        "weightage": 1
+                    },
+                    {
+                        "value": "Partially monitored",
+                        "weightage": 2
+                    },
+                    {
+                        "value": "Not monitored",
+                        "weightage": 5
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc23",
+                "value": "Partially monitored",
+                "weightage": 2
+            },
+            "createdAt": "2021-05-25T09:16:55.418Z",
+            "updatedAt": "2021-05-25T09:19:11.492Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e372e6",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199f93",
+                "sequence_no": 8,
+                "risk_type": "Performance Risk",
+                "question": "Does the recipient timely submit the required performance report to agency If not, pls menion the Finding ID and Findings",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes",
+                        "weightage": 1
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 3
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc24",
+                "value": "Yes",
+                "weightage": 1
+            },
+            "createdAt": "2021-05-25T09:16:55.418Z",
+            "updatedAt": "2021-05-25T09:19:11.492Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e372e8",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199f94",
+                "sequence_no": 9,
+                "risk_type": "Performance Risk",
+                "question": "Does the recipient submit its quarterly financial reports (e.g., SF 425) timely and accurately",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes",
+                        "weightage": 1
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 3
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc25",
+                "value": "No",
+                "weightage": 3
+            },
+            "createdAt": "2021-05-25T09:16:55.418Z",
+            "updatedAt": "2021-05-25T09:19:11.492Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e372ea",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199f95",
+                "sequence_no": 10,
+                "risk_type": "Performance Risk",
+                "question": "Does the recipient have a system to collect the following performance data for quarterly reporting, with regard to the use of funds",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes",
+                        "weightage": 1
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 3
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc26",
+                "value": "Yes",
+                "weightage": 1
+            },
+            "createdAt": "2021-05-25T09:16:55.418Z",
+            "updatedAt": "2021-05-25T09:19:11.492Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e372f3",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199f96",
+                "sequence_no": 11,
+                "risk_type": "Performance Risk",
+                "question": "A comparison of actual accomplishments to the objectives of the agency award or subaward established for the period",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Comparison Available",
+                        "weightage": 1
+                    },
+                    {
+                        "value": "Comparison Not Available",
+                        "weightage": 3
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc27",
+                "value": "Comparison Available",
+                "weightage": 1
+            },
+            "createdAt": "2021-05-25T09:16:55.418Z",
+            "updatedAt": "2021-05-25T09:19:11.492Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e372f5",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199f9a",
+                "sequence_no": 15,
+                "risk_type": "Performance Risk",
+                "question": "Is the recipient in-house information consistent with the information entered in monthly status reports or quarterly reports, as applicable",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes",
+                        "weightage": 1
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 4
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc28",
+                "value": "No",
+                "weightage": 4
+            },
+            "createdAt": "2021-05-25T09:16:55.418Z",
+            "updatedAt": "2021-05-25T09:19:11.492Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e372f7",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199f9c",
+                "sequence_no": 17,
+                "risk_type": "Performance Risk",
+                "question": "Does the non-Federal entity collect, transmit, and store, whenever practicable, agency award-related information in open and machine-readable formats rather than in closed formats or on paper",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Isolated",
+                        "weightage": 1
+                    },
+                    {
+                        "value": "Not Isolated",
+                        "weightage": 4
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc29",
+                "value": "Not Isolated",
+                "weightage": 4
+            },
+            "createdAt": "2021-05-25T09:16:55.418Z",
+            "updatedAt": "2021-05-25T09:19:11.492Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e372f9",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199f9d",
+                "sequence_no": 18,
+                "risk_type": "Performance Risk",
+                "question": "If the non-Federal entity requires paper copy submissions from its subrecipients or contractors, does it limit the submission to no more than the original and two copies",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes, it limits the submission to no more than the original and two copies",
+                        "weightage": 1
+                    },
+                    {
+                        "value": "No, it does Not",
+                        "weightage": 4
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc2a",
+                "value": "Yes, it limits the submission to no more than the original and two copies",
+                "weightage": 1
+            },
+            "createdAt": "2021-05-25T09:16:55.418Z",
+            "updatedAt": "2021-05-25T09:19:11.492Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e372fb",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199f9e",
+                "sequence_no": 19,
+                "risk_type": "Performance Risk",
+                "question": "If the non-Federal entity substitutes electronic versions of original paper records through the use of duplication or other forms of electronic media, does the non-Federal entity ensure that the electronic versions are subject to periodic quality control reviews, provide reasonable safeguards against alteration, and remain readable",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes, give details",
+                        "weightage": 1
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 4
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc2b",
+                "value": "No",
+                "weightage": 4
+            },
+            "createdAt": "2021-05-25T09:16:55.418Z",
+            "updatedAt": "2021-05-25T09:19:11.493Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e372fd",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199f9f",
+                "sequence_no": 20,
+                "risk_type": "Performance Risk",
+                "question": "Does agency have access to all documents, papers, or other records of the non-Federal entity that are pertinent to the agency award, in order to make audits, examinations, excerpts, and transcripts, including timely and reasonable access to the non-Federal entity’s personnel for purposes of interviews and discussions related to such documents",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes",
+                        "weightage": 1
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 4
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc2c",
+                "value": "No",
+                "weightage": 4
+            },
+            "createdAt": "2021-05-25T09:16:55.418Z",
+            "updatedAt": "2021-05-25T09:19:11.493Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e372ff",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fa0",
+                "sequence_no": 21,
+                "risk_type": "Performance Risk",
+                "question": "Are there any special terms and conditions included in the award agreement",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes, Mention  Audit Period, Grant Amount and T&C",
+                        "weightage": 1
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 4
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc2d",
+                "value": "Yes, Mention  Audit Period, Grant Amount and T&C",
+                "weightage": 1,
+                "description": "2019"
+            },
+            "createdAt": "2021-05-25T09:16:55.418Z",
+            "updatedAt": "2021-05-25T09:19:11.493Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e37301",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fa2",
+                "sequence_no": 23,
+                "risk_type": "Performance Risk",
+                "question": "Is there any Information from audit on non receipt of timely Financial Report - financial integrity information",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes, Mention  Financial Integrity Information",
+                        "weightage": 1
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 4
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc2e",
+                "value": "No",
+                "weightage": 4
+            },
+            "createdAt": "2021-05-25T09:16:55.418Z",
+            "updatedAt": "2021-05-25T09:19:11.493Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e37303",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fa3",
+                "sequence_no": 24,
+                "risk_type": "Performance Risk",
+                "question": "Does the award recipients with previously past due corrective actions are found to have completed actions and closed single audit findings?  If Yes pls mention the details",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes, details given below",
+                        "weightage": 1
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 4
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc2f",
+                "value": "No",
+                "weightage": 4
+            },
+            "createdAt": "2021-05-25T09:16:55.418Z",
+            "updatedAt": "2021-05-25T09:19:11.493Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e37305",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fa7",
+                "sequence_no": 28,
+                "risk_type": "Performance Risk",
+                "question": "Are there any information pertaining to suspension and debarment information",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes",
+                        "weightage": 1
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 4
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc30",
+                "value": "No",
+                "weightage": 4
+            },
+            "createdAt": "2021-05-25T09:16:55.418Z",
+            "updatedAt": "2021-05-25T09:19:11.493Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e37307",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fa8",
+                "sequence_no": 29,
+                "risk_type": "Performance Risk",
+                "question": "Does the organization take responsibility to ensure that reporting requirements are understood and met in accordance with deadlines",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes",
+                        "weightage": 1
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 4
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc31",
+                "value": "Yes",
+                "weightage": 1
+            },
+            "createdAt": "2021-05-25T09:16:55.418Z",
+            "updatedAt": "2021-05-25T09:19:11.493Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e37309",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fa9",
+                "sequence_no": 30,
+                "risk_type": "Performance Risk",
+                "question": "Does the recipient appropriately report in the Federal Funding Accountability and Transparency Act of 2006 (FFATA) and register in System for Award Management ?  (If yes, describe what was reported and when SAM registration occurred",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes, capture what was reported and when SAM registration occurred",
+                        "weightage": 1
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 4
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc32",
+                "value": "Yes, capture what was reported and when SAM registration occurred",
+                "weightage": 1,
+                "description": "2020 August"
+            },
+            "createdAt": "2021-05-25T09:16:55.418Z",
+            "updatedAt": "2021-05-25T09:19:11.493Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e3730b",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199faa",
+                "sequence_no": 1,
+                "risk_type": "Financial & Fiduciary Risks",
+                "question": "Subrecipient Monitoring – Does the pass-through organization evaluate the risk of the sub-recipient’s noncompliance and monitor financial and programmatic progress",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes",
+                        "weightage": 1
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 3
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc33",
+                "value": "Yes",
+                "weightage": 1
+            },
+            "createdAt": "2021-05-25T09:16:55.418Z",
+            "updatedAt": "2021-05-25T09:19:11.493Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e3730d",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fab",
+                "sequence_no": 2,
+                "risk_type": "Financial & Fiduciary Risks",
+                "question": "Has the pass-through entity obtained the audit report and issue management decisions for any specific findings",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes",
+                        "weightage": 1
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 3
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc34",
+                "value": "No",
+                "weightage": 3
+            },
+            "createdAt": "2021-05-25T09:16:55.418Z",
+            "updatedAt": "2021-05-25T09:19:11.493Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e3730f",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fac",
+                "sequence_no": 3,
+                "risk_type": "Financial & Fiduciary Risks",
+                "question": "Are there any audit findings that federal funding is being passed to debarred or suspended people or entities",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes",
+                        "weightage": 1
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 3
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc35",
+                "value": "Yes",
+                "weightage": 1
+            },
+            "createdAt": "2021-05-25T09:16:55.418Z",
+            "updatedAt": "2021-05-25T09:19:11.493Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e37311",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fad",
+                "sequence_no": 4,
+                "risk_type": "Financial & Fiduciary Risks",
+                "question": "Are there any audit findings that federal funding is being passed to debarred or suspended people or entities",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes",
+                        "weightage": 1
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 3
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc36",
+                "value": "No",
+                "weightage": 3
+            },
+            "createdAt": "2021-05-25T09:16:55.418Z",
+            "updatedAt": "2021-05-25T09:19:11.493Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e37313",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fae",
+                "sequence_no": 6,
+                "risk_type": "Financial & Fiduciary Risks",
+                "question": "Is there any audit findings related to award recipient whose payment request is not in alignment with the budget plan",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes",
+                        "weightage": 1
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 3
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc37",
+                "value": "Yes",
+                "weightage": 1
+            },
+            "createdAt": "2021-05-25T09:16:55.418Z",
+            "updatedAt": "2021-05-25T09:19:11.493Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e37315",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199faf",
+                "sequence_no": 7,
+                "risk_type": "Financial & Fiduciary Risks",
+                "question": "Does the reimbursement payment requests comes with supporting documentation from award recipients",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes",
+                        "weightage": 1
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 3
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc38",
+                "value": "No",
+                "weightage": 3
+            },
+            "createdAt": "2021-05-25T09:16:55.418Z",
+            "updatedAt": "2021-05-25T09:19:11.493Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e37317",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fb0",
+                "sequence_no": 8,
+                "risk_type": "Financial & Fiduciary Risks",
+                "question": "Are the salaries compliant with the Executive Level caps for persons billed?",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes",
+                        "weightage": 1
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 3
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc39",
+                "value": "Yes",
+                "weightage": 1
+            },
+            "createdAt": "2021-05-25T09:16:55.418Z",
+            "updatedAt": "2021-05-25T09:19:11.493Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e37319",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fb1",
+                "sequence_no": 9,
+                "risk_type": "Financial & Fiduciary Risks",
+                "question": "Is there a policy in place for equipment's purchased with federal funds must be tracked and inventoried",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes",
+                        "weightage": 1
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 3
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc3a",
+                "value": "No",
+                "weightage": 3
+            },
+            "createdAt": "2021-05-25T09: 16: 55.418Z",
+            "updatedAt": "2021-05-25T09: 19: 11.493Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e3731b",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fb2",
+                "sequence_no": 10,
+                "risk_type": "Financial & Fiduciary Risks",
+                "question": "Does the expenditures of federal funds occur during the specified award period?",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes",
+                        "weightage": 1
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 3
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc3b",
+                "value": "Yes",
+                "weightage": 1
+            },
+            "createdAt": "2021-05-25T09: 16: 55.418Z",
+            "updatedAt": "2021-05-25T09: 19: 11.493Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e3731d",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fb3",
+                "sequence_no": 11,
+                "risk_type": "Financial & Fiduciary Risks",
+                "question": "Are there any pre-award costs or carryover balances authorized by the awarding federal agency",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes",
+                        "weightage": 1
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 3
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc3c",
+                "value": "No",
+                "weightage": 3
+            },
+            "createdAt": "2021-05-25T09: 16: 55.418Z",
+            "updatedAt": "2021-05-25T09: 19: 11.493Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e3731f",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fb4",
+                "sequence_no": 12,
+                "risk_type": "Financial & Fiduciary Risks",
+                "question": "Does a randomly selected review of cost records show that funds have been disbursed for not-eligible activities (e.g., administration, coordination, needs assessment, training, tools/products, knowledge management, data analysis)",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes",
+                        "weightage": 1
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 3
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc3d",
+                "value": "No",
+                "weightage": 3
+            },
+            "createdAt": "2021-05-25T09: 16: 55.419Z",
+            "updatedAt": "2021-05-25T09: 19: 11.493Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e37321",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fb5",
+                "sequence_no": 13,
+                "risk_type": "Financial & Fiduciary Risks",
+                "question": "What's the current finance model - Inhouse Finance or Loans or Debts - Financial stability",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Inhouse Finance",
+                        "weightage": 1
+                    },
+                    {
+                        "value": "Loans",
+                        "weightage": 3
+                    },
+                    {
+                        "value": "Debts",
+                        "weightage": 3
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc3e",
+                "value": "Inhouse Finance",
+                "weightage": 1
+            },
+            "createdAt": "2021-05-25T09:16:55.419Z",
+            "updatedAt": "2021-05-25T09:19:11.493Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e37323",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fb6",
+                "sequence_no": 14,
+                "risk_type": "Financial & Fiduciary Risks",
+                "question": "Has the organization contributed its own resources to the grant program in a specified dollar or ratio",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes 100%",
+                        "weightage": 1
+                    },
+                    {
+                        "value": "Yes 75%",
+                        "weightage": 2
+                    },
+                    {
+                        "value": "Yes 50%",
+                        "weightage": 3
+                    },
+                    {
+                        "value": "Yes 25%",
+                        "weightage": 4
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 5
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc3f",
+                "value": "Yes 100%",
+                "weightage": 1
+            },
+            "createdAt": "2021-05-25T09:16:55.419Z",
+            "updatedAt": "2021-05-25T09:19:11.494Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e37325",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fb7",
+                "sequence_no": 15,
+                "risk_type": "Financial & Fiduciary Risks",
+                "question": "Has the auditor tracked how the organization current funds (before award) are not from federal funding",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes",
+                        "weightage": 5
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 2
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc40",
+                "value": "No",
+                "weightage": 2
+            },
+            "createdAt": "2021-05-25T09:16:55.419Z",
+            "updatedAt": "2021-05-25T09:19:11.494Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e37327",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fb8",
+                "sequence_no": 16,
+                "risk_type": "Financial & Fiduciary Risks",
+                "question": "If the recipient engaged in allowable activities that generate program income, do records confirm the following",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes",
+                        "weightage": 5
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 3
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc41",
+                "value": "No",
+                "weightage": 3
+            },
+            "createdAt": "2021-05-25T09:16:55.419Z",
+            "updatedAt": "2021-05-25T09:19:11.494Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e37329",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fba",
+                "sequence_no": 18,
+                "risk_type": "Financial & Fiduciary Risks",
+                "question": "Program income was expended on eligible activities",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes",
+                        "weightage": 0
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 5
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc42",
+                "value": "Yes",
+                "weightage": 0
+            },
+            "createdAt": "2021-05-25T09:16:55.419Z",
+            "updatedAt": "2021-05-25T09:19:11.494Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e3732b",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fbb",
+                "sequence_no": 19,
+                "risk_type": "Financial & Fiduciary Risks",
+                "question": "Does the activities conform to generally accepted accounting principles (GAAP) and be adequately documented",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes",
+                        "weightage": 0
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 5
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc43",
+                "value": "Yes",
+                "weightage": 0
+            },
+            "createdAt": "2021-05-25T09:16:55.419Z",
+            "updatedAt": "2021-05-25T09:19:11.494Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e3732d",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fbc",
+                "sequence_no": 1,
+                "risk_type": "Quality Risks",
+                "question": "Are policies, procedures and processes regularly reviewed, updated and created to ensure that the organization effectively carries out its programs and activities, including updates that may be needed for federal grant funds",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes",
+                        "weightage": 1
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 3
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc44",
+                "value": "Yes",
+                "weightage": 1
+            },
+            "createdAt": "2021-05-25T09:16:55.419Z",
+            "updatedAt": "2021-05-25T09:19:11.494Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e3732f",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fbd",
+                "sequence_no": 2,
+                "risk_type": "Quality Risks",
+                "question": "Does the organization have a formalized internal control program and risk assessment methodology for managing and monitoring operational and financial risks that is periodically tested and updated as needed",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes",
+                        "weightage": 1
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 3
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc45",
+                "value": "No",
+                "weightage": 3
+            },
+            "createdAt": "2021-05-25T09:16:55.419Z",
+            "updatedAt": "2021-05-25T09:19:11.494Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e37331",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fbf",
+                "sequence_no": 4,
+                "risk_type": "Quality Risks",
+                "question": "Does the organization have a formalized risk assessment process in place specifically for federal grant programs, including standard forms and checklists, for assessing subrecipient eligibility and monitoring performance",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes",
+                        "weightage": 1
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 3
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc46",
+                "value": "Yes",
+                "weightage": 1
+            },
+            "createdAt": "2021-05-25T09:16:55.419Z",
+            "updatedAt": "2021-05-25T09:19:11.494Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e37333",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fc0",
+                "sequence_no": 5,
+                "risk_type": "Quality Risks",
+                "question": "Are breaches of policy and/or instances of fraud or other criminal activity addressed by management Including taking steps to prevent future violations",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes",
+                        "weightage": 1
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 3
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc47",
+                "value": "No",
+                "weightage": 3
+            },
+            "createdAt": "2021-05-25T09:16:55.419Z",
+            "updatedAt": "2021-05-25T09:19:11.494Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e37335",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fc1",
+                "sequence_no": 6,
+                "risk_type": "Quality Risks",
+                "question": "Does the policy include notification to the appropriate federal agency in cases of confirmed fraud related to federal funds",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes",
+                        "weightage": 1
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 5
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc48",
+                "value": "No",
+                "weightage": 5
+            },
+            "createdAt": "2021-05-25T09:16:55.419Z",
+            "updatedAt": "2021-05-25T09:19:11.494Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e37337",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fc3",
+                "sequence_no": 8,
+                "risk_type": "Quality Risks",
+                "question": "If the requirements of the Drug-Free Workplace certification were monitored, is the recipient in compliance",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes",
+                        "weightage": 0
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 4
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc49",
+                "value": "Yes",
+                "weightage": 0
+            },
+            "createdAt": "2021-05-25T09:16:55.419Z",
+            "updatedAt": "2021-05-25T09:19:11.494Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e37339",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fc4",
+                "sequence_no": 9,
+                "risk_type": "Quality Risks",
+                "question": "If the recipient conducts lobbying activities, did the recipient correctly submit a disclosure form SF LLL",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes",
+                        "weightage": 0
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 5
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc4a",
+                "value": "No",
+                "weightage": 5
+            },
+            "createdAt": "2021-05-25T09:16:55.419Z",
+            "updatedAt": "2021-05-25T09:19:11.494Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e3733b",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fc5",
+                "sequence_no": 10,
+                "risk_type": "Quality Risks",
+                "question": "Has the recipient provided a current organization chart, or other document identifying roles and responsibilities related to the program",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes",
+                        "weightage": 0
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 3
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc4b",
+                "value": "Yes",
+                "weightage": 0
+            },
+            "createdAt": "2021-05-25T09:16:55.419Z",
+            "updatedAt": "2021-05-25T09:19:11.494Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e3733d",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fc6",
+                "sequence_no": 11,
+                "risk_type": "Quality Risks",
+                "question": "Does the recipient have a person or persons explicitly identified for the day-to-day administration of the program?  If yes, include person(s) by name and title and how long the person(s) have been in the position",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes",
+                        "weightage": 1
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 3
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc4c",
+                "value": "No",
+                "weightage": 3
+            },
+            "createdAt": "2021-05-25T09:16:55.419Z",
+            "updatedAt": "2021-05-25T09:19:11.494Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e3733f",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fc7",
+                "sequence_no": 12,
+                "risk_type": "Quality Risks",
+                "question": "Has the recipient lost key personnel in the last fiscal year",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes",
+                        "weightage": 3
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 1
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc4d",
+                "value": "Yes",
+                "weightage": 3
+            },
+            "createdAt": "2021-05-25T09:16:55.419Z",
+            "updatedAt": "2021-05-25T09:19:11.494Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e37341",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fc8",
+                "sequence_no": 13,
+                "risk_type": "Quality Risks",
+                "question": "Do the key personnel have appropriate authority to affect change or force actions to occur",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes",
+                        "weightage": 3
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 1
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc4e",
+                "value": "No",
+                "weightage": 1
+            },
+            "createdAt": "2021-05-25T09:16:55.419Z",
+            "updatedAt": "2021-05-25T09:19:11.494Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e37343",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fc9",
+                "sequence_no": 14,
+                "risk_type": "Quality Risks",
+                "question": "Does the recipient have a written process in place to track the progress of each work plan and eligible activity",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes",
+                        "weightage": 1
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 3
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc4f",
+                "value": "Yes",
+                "weightage": 1
+            },
+            "createdAt": "2021-05-25T09:16:55.419Z",
+            "updatedAt": "2021-05-25T09:19:11.494Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e37345",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fca",
+                "sequence_no": 15,
+                "risk_type": "Quality Risks",
+                "question": "If yes, does the recipient have a system or procedure for periodically assessing the effectiveness of each activity being funded under the program as a whole",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes",
+                        "weightage": 0
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 4
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc50",
+                "value": "Yes",
+                "weightage": 0
+            },
+            "createdAt": "2021-05-25T09:16:55.419Z",
+            "updatedAt": "2021-05-25T09:19:11.494Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e37347",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fcb",
+                "sequence_no": 16,
+                "risk_type": "Quality Risks",
+                "question": "If yes, does the system effectively identify progress and problems to enable corrections or adjustments, as needed",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes",
+                        "weightage": 0
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 4
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc51",
+                "value": "Yes",
+                "weightage": 0
+            },
+            "createdAt": "2021-05-25T09:16:55.419Z",
+            "updatedAt": "2021-05-25T09:19:11.494Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e37349",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fcc",
+                "sequence_no": 17,
+                "risk_type": "Quality Risks",
+                "question": "Is the recipient in compliance with the NOFA conflict of interest requirements or has an exception been granted",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes (Capture if exception granted)",
+                        "weightage": 0
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 4
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc52",
+                "value": "Yes (Capture if exception granted)",
+                "weightage": 0,
+                "description": "Yes"
+            },
+            "createdAt": "2021-05-25T09:16:55.419Z",
+            "updatedAt": "2021-05-25T09:19:11.494Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e3734b",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fcd",
+                "sequence_no": 18,
+                "risk_type": "Quality Risks",
+                "question": "Is the recipient in compliance with the agency Program conflict of interest requirements or has an exception been granted",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes (Capture if exception granted)",
+                        "weightage": 0
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 4
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc53",
+                "value": "No",
+                "weightage": 4
+            },
+            "createdAt": "2021-05-25T09:16:55.419Z",
+            "updatedAt": "2021-05-25T09:19:11.494Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e3734d",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fce",
+                "sequence_no": 1,
+                "risk_type": "Governance, Oversight & Management Risks",
+                "question": "Is there a written conflict of interest policy that is reviewed and signed off by employees at least annually",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes",
+                        "weightage": 1
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 3
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc54",
+                "value": "Yes",
+                "weightage": 1
+            },
+            "createdAt": "2021-05-25T09:16:55.419Z",
+            "updatedAt": "2021-05-25T09:19:11.494Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e3734f",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fcf",
+                "sequence_no": 2,
+                "risk_type": "Governance, Oversight & Management Risks",
+                "question": "Is anti-fraud awareness training conducted at least annually that is evidenced by attendance sheets or other mechanisms",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes",
+                        "weightage": 1
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 3
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc55",
+                "value": "No",
+                "weightage": 3
+            },
+            "createdAt": "2021-05-25T09:16:55.420Z",
+            "updatedAt": "2021-05-25T09:19:11.495Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e37351",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fd0",
+                "sequence_no": 3,
+                "risk_type": "Governance, Oversight & Management Risks",
+                "question": "Are there formal policies and procedures in place for employees to confidentially report suspected violations of policies and or suspected instances of fraud or other criminal activity, including specifically those related to federal grant programs",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes",
+                        "weightage": 1
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 3
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc56",
+                "value": "Yes",
+                "weightage": 1
+            },
+            "createdAt": "2021-05-25T09:16:55.420Z",
+            "updatedAt": "2021-05-25T09:19:11.495Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e37353",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fd1",
+                "sequence_no": 4,
+                "risk_type": "Governance, Oversight & Management Risks",
+                "question": "Does the organization complete criminal and financial background checks on employees",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes",
+                        "weightage": 1
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 3
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc57",
+                "value": "Yes",
+                "weightage": 1
+            },
+            "createdAt": "2021-05-25T09:16:55.420Z",
+            "updatedAt": "2021-05-25T09:19:11.495Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e37355",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fd2",
+                "sequence_no": 5,
+                "risk_type": "Governance, Oversight & Management Risks",
+                "question": "Does management promote open communications throughout the organization and effectively provide information to employees and other stakeholders",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes",
+                        "weightage": 1
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 3
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc58",
+                "value": "No",
+                "weightage": 3
+            },
+            "createdAt": "2021-05-25T09:16:55.420Z",
+            "updatedAt": "2021-05-25T09:19:11.495Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e37357",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fd3",
+                "sequence_no": 6,
+                "risk_type": "Governance, Oversight & Management Risks",
+                "question": "Does management model and support ethical behaviour",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes",
+                        "weightage": 0
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 4
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc59",
+                "value": "Yes",
+                "weightage": 0
+            },
+            "createdAt": "2021-05-25T09:16:55.420Z",
+            "updatedAt": "2021-05-25T09:19:11.495Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e37359",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fd4",
+                "sequence_no": 7,
+                "risk_type": "Governance, Oversight & Management Risks",
+                "question": "Is adequate training and supervisory oversight provided to all employees to ensure that the organization effectively carries out its programs and activities, including employees working on federal grant programs",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes",
+                        "weightage": 0
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 3
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc5a",
+                "value": "Yes",
+                "weightage": 0
+            },
+            "createdAt": "2021-05-25T09:16:55.420Z",
+            "updatedAt": "2021-05-25T09:19:11.495Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e3735b",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fd5",
+                "sequence_no": 8,
+                "risk_type": "Governance, Oversight & Management Risks",
+                "question": "Does the organization periodically assess and maintain proper segregation of duties",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes",
+                        "weightage": 0
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 4
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc5b",
+                "value": "Yes",
+                "weightage": 0
+            },
+            "createdAt": "2021-05-25T09:16:55.420Z",
+            "updatedAt": "2021-05-25T09:19:11.495Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e3735d",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fd6",
+                "sequence_no": 9,
+                "risk_type": "Governance, Oversight & Management Risks",
+                "question": "Is there a written code of conduct that is reviewed and signed off by employees at least annually",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes",
+                        "weightage": 0
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 5
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc5c",
+                "value": "No",
+                "weightage": 5
+            },
+            "createdAt": "2021-05-25T09:16:55.420Z",
+            "updatedAt": "2021-05-25T09:19:11.495Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e3735f",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fd7",
+                "sequence_no": 10,
+                "risk_type": "Governance, Oversight & Management Risks",
+                "question": "Does the organization have policies and procedures (Allowable Costs & Cost Principles) in place that would prevent an unallowable cost from being charged through to the federal grant",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes",
+                        "weightage": 0
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 5
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc5d",
+                "value": "No",
+                "weightage": 5
+            },
+            "createdAt": "2021-05-25T09:16:55.420Z",
+            "updatedAt": "2021-05-25T09:19:11.495Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e37361",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fd8",
+                "sequence_no": 11,
+                "risk_type": "Governance, Oversight & Management Risks",
+                "question": "Are there any challenges in receiving monthly performance reports from award recipients with special terms and conditions",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes",
+                        "weightage": 3
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 0
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc5e",
+                "value": "Yes",
+                "weightage": 3
+            },
+            "createdAt": "2021-05-25T09:16:55.420Z",
+            "updatedAt": "2021-05-25T09:19:11.495Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e37363",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fd9",
+                "sequence_no": 12,
+                "risk_type": "Governance, Oversight & Management Risks",
+                "question": "Have the recipient’s funds been monitored by internal audit staff? If yes, provide the award number, date of audit, and action taken by the recipient in response to internal audit",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes",
+                        "weightage": 0
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 5
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc5f",
+                "value": "No",
+                "weightage": 5
+            },
+            "createdAt": "2021-05-25T09:16:55.420Z",
+            "updatedAt": "2021-05-25T09:19:11.495Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e37365",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fda",
+                "sequence_no": 13,
+                "risk_type": "Governance, Oversight & Management Risks",
+                "question": "Does the grant check for eligibility of Individuals, groups, or sub-recipients to whom organizations may provide scholarships, subgrants, financial awards, or services must not be barred from receiving federal funding and must fit the parameters as defined in the grant award",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes",
+                        "weightage": 0
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 5
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc60",
+                "value": "Yes",
+                "weightage": 0
+            },
+            "createdAt": "2021-05-25T09:16:55.420Z",
+            "updatedAt": "2021-05-25T09:19:11.495Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e37367",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fdc",
+                "sequence_no": 15,
+                "risk_type": "Governance, Oversight & Management Risks",
+                "question": "Repay any funds owed to HUD as a result of later refunds, corrections, or other transactions including final indirect cost rate adjustments",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes",
+                        "weightage": 0
+                    },
+                    {
+                        "value": "No",
+                        "weightage": 5
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc61",
+                "value": "No",
+                "weightage": 5
+            },
+            "createdAt": "2021-05-25T09:16:55.420Z",
+            "updatedAt": "2021-05-25T09:19:11.495Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e37369",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fdd",
+                "sequence_no": 16,
+                "risk_type": "Governance, Oversight & Management Risks",
+                "question": "Comply with the audit requirements in Subpart F of 2 CFR part 200, if applicable",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes, complied",
+                        "weightage": 0
+                    },
+                    {
+                        "value": "Not applicable",
+                        "weightage": 4
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc62",
+                "value": "Yes, complied",
+                "weightage": 0
+            },
+            "createdAt": "2021-05-25T09:16:55.420Z",
+            "updatedAt": "2021-05-25T09:19:11.495Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e3736b",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fde",
+                "sequence_no": 17,
+                "risk_type": "Governance, Oversight & Management Risks",
+                "question": "Comply with property management and disposition requirements in 2 CFR Subpart D, 200.310 – 200.316, if applicable",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes, complied",
+                        "weightage": 2
+                    },
+                    {
+                        "value": "Not applicable",
+                        "weightage": 4
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc63",
+                "value": "Yes, complied",
+                "weightage": 0
+            },
+            "createdAt": "2021-05-25T09:16:55.420Z",
+            "updatedAt": "2021-05-25T09:19:11.495Z"
+        },
+        {
+            "_id": "60acc087ac25727db1e3736d",
+            "grantee_grant_id": "60ac755570f72e4212c493f6",
+            "question_id": {
+                "_id": "60ac8ed39e0dc62a18199fdf",
+                "sequence_no": 18,
+                "risk_type": "Governance, Oversight & Management Risks",
+                "question": "Comply with record retention requirements of 2 CFR 200.333 – 200.337, as applicable",
+                "question_type": "radio",
+                "answer_impact_values": [
+                    {
+                        "value": "Yes, complied",
+                        "weightage": 0
+                    },
+                    {
+                        "value": "Not applicable",
+                        "weightage": 4
+                    }
+                ],
+                "question_impact_values": 4,
+                "probability": 10
+            },
+            "__v": 0,
+            "answer": {
+                "_id": "60acc10f4d2ca626bb6efc64",
+                "value": "Yes, complied",
+                "weightage": 0
+            },
+            "createdAt": "2021-05-25T09:16:55.420Z",
+            "updatedAt": "2021-05-25T09:19:11.495Z"
+        }
+    ]
+}

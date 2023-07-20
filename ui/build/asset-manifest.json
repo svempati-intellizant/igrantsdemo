@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/igrant/static/css/main.f0cac066.chunk.css",
+    "main.js": "/igrant/static/js/main.9304cc78.chunk.js",
+    "main.js.map": "/igrant/static/js/main.9304cc78.chunk.js.map",
+    "runtime-main.js": "/igrant/static/js/runtime-main.21e2f927.js",
+    "runtime-main.js.map": "/igrant/static/js/runtime-main.21e2f927.js.map",
+    "static/css/2.97503911.chunk.css": "/igrant/static/css/2.97503911.chunk.css",
+    "static/js/2.bf2839fe.chunk.js": "/igrant/static/js/2.bf2839fe.chunk.js",
+    "static/js/2.bf2839fe.chunk.js.map": "/igrant/static/js/2.bf2839fe.chunk.js.map",
+    "static/js/3.9ba39b1c.chunk.js": "/igrant/static/js/3.9ba39b1c.chunk.js",
+    "static/js/3.9ba39b1c.chunk.js.map": "/igrant/static/js/3.9ba39b1c.chunk.js.map",
+    "static/js/4.53c86412.chunk.js": "/igrant/static/js/4.53c86412.chunk.js",
+    "static/js/4.53c86412.chunk.js.map": "/igrant/static/js/4.53c86412.chunk.js.map",
+    "static/js/5.2b689c1e.chunk.js": "/igrant/static/js/5.2b689c1e.chunk.js",
+    "static/js/5.2b689c1e.chunk.js.map": "/igrant/static/js/5.2b689c1e.chunk.js.map",
+    "static/js/6.98b1cadc.chunk.js": "/igrant/static/js/6.98b1cadc.chunk.js",
+    "static/js/6.98b1cadc.chunk.js.map": "/igrant/static/js/6.98b1cadc.chunk.js.map",
+    "static/js/7.fed22ef4.chunk.js": "/igrant/static/js/7.fed22ef4.chunk.js",
+    "static/js/7.fed22ef4.chunk.js.map": "/igrant/static/js/7.fed22ef4.chunk.js.map",
+    "static/js/8.4a6b066f.chunk.js": "/igrant/static/js/8.4a6b066f.chunk.js",
+    "static/js/8.4a6b066f.chunk.js.map": "/igrant/static/js/8.4a6b066f.chunk.js.map",
+    "static/js/9.a51507c3.chunk.js": "/igrant/static/js/9.a51507c3.chunk.js",
+    "static/js/9.a51507c3.chunk.js.map": "/igrant/static/js/9.a51507c3.chunk.js.map",
+    "static/js/10.d805a537.chunk.js": "/igrant/static/js/10.d805a537.chunk.js",
+    "static/js/10.d805a537.chunk.js.map": "/igrant/static/js/10.d805a537.chunk.js.map",
+    "index.html": "/igrant/index.html",
+    "static/css/2.97503911.chunk.css.map": "/igrant/static/css/2.97503911.chunk.css.map",
+    "static/css/main.f0cac066.chunk.css.map": "/igrant/static/css/main.f0cac066.chunk.css.map",
+    "static/js/2.bf2839fe.chunk.js.LICENSE.txt": "/igrant/static/js/2.bf2839fe.chunk.js.LICENSE.txt",
+    "static/media/loginpage_image.12a53f46.jpg": "/igrant/static/media/loginpage_image.12a53f46.jpg",
+    "static/media/logo.383a8ffb.svg": "/igrant/static/media/logo.383a8ffb.svg",
+    "static/media/nopagefound.e7c38c2a.webp": "/igrant/static/media/nopagefound.e7c38c2a.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21e2f927.js",
+    "static/css/2.97503911.chunk.css",
+    "static/js/2.bf2839fe.chunk.js",
+    "static/css/main.f0cac066.chunk.css",
+    "static/js/main.9304cc78.chunk.js"
+  ]
+}

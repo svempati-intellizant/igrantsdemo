@@ -1,0 +1,18 @@
+version: "3"
+
+services:
+  riskGrant:
+    image: risk_grant 
+    container_name: riskGrant 
+    restart: always
+    build: .
+    ports:
+      - "5002:5002"
+    working_dir: /app/
+    command: ["python3", "run_gunicorn.py"]
+    environment:
+      - PORT=5002
+    volumes:
+      -  ./MODEL:/app/MODEL/
+      -  ./database:/app/database/
+

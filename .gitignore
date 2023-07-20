@@ -1,0 +1,4 @@
+mongo*
+static*
+ui/new_build/
+!mongo-dump/ 

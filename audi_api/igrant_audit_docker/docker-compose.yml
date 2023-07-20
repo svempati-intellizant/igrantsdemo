@@ -1,0 +1,35 @@
+version: "3"
+services:
+  python_api:
+    build:
+      dockerfile: igrant_audit_docker/Dockerfile
+      context: ../
+    image: "igrant_audit_api:1.0.0"
+  igrantcontroller:
+    image: igrant_audit_api:1.0.0
+    container_name: iGrant_audit_container
+    restart: always
+    ports:
+      - "8081:8081"
+    working_dir: /app/igrant_audit_api
+    command:
+      [
+        "gunicorn",
+        "-w",
+        "2",
+        "--timeout",
+        "7200",
+        "--bind",
+        "0.0.0.0:8081",
+        "igrant_audit_api:app",
+      ]
+    environment:
+      - PORT=8088
+      - ABSOLUTE_LOGS_PATH=/app/igrant_audit_api/logs
+      - ABSOLUTE_FILE_SAVED_PATH=/app/igrant_audit_api/audit_files
+      - COMPOSE_PROJECT_NAME=igrant_audi_api
+      - IGRANT_NEST_API=http:0.0.0.0:4000/api/audit/push-dummy
+
+    volumes:
+      - /home/igrant_shared_volumes/igrant_files/python_logs:/api/iGrant_audit_container/logs
+      - /home/igrant_shared_volumes/igrant_files/audit_files:/app/igrant_audit_api/audit_files

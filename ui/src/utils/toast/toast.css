@@ -1,0 +1,22 @@
+.dummy {
+  /* background-color: #7e7ef7; */
+  min-height: 50px;
+}
+.Toastify__close-button {
+  padding-right: 4% !important;
+  padding-left: 4% !important;
+  box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.175) !important;
+  align-self: auto !important;
+}
+.Toastify__toast {
+  margin-bottom: 0px;
+}
+.Toastify__toast-container--bottom-center {
+  bottom: 0px;
+}
+.Toastify__toast-container {
+  padding: 0px;
+}
+.Toastify__toast--success {
+  background: #047d08;
+}
