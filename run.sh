@@ -16,4 +16,4 @@ sudo nginx -s reload
 cd -
 cd mongo-dump/igrant/
 #this will dump the database backup to mongodb
-docker exec -i igrant_mongo /usr/bin/mongorestore  --host=localhost  --username=admin --password=rap12345
+docker exec -i igrant_mongo /usr/bin/mongorestore  --uri "mongodb://admin:rap12345@localhost:27017/igrant?authSource=admin" --db igrant
