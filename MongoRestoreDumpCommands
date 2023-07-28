@@ -1,0 +1,23 @@
+mongodb://admin:rap12345@52.152.130.235:37017/admin_console?authSource=admin&readPreference=primary&appname=MongoDB%20Compass%20Community&ssl=false
+
+
+
+mongodump --host=139.59.79.95:37017 --port=37017 --username=admin --password=rap12345 --out= C:\Users\sandeep\Downloads\Mongo Dump from server\dump
+
+
+mongodump --host=139.59.79.95:37017 --port=37017 --username=admin --password=rap12345 --out= C:\Users\sandeep\Downloads\Mongo Dump from server\dump
+
+
+mongodump --uri "mongodb://admin:rap%4012345@139.59.79.95:37017/igrant?authSource=admin&readPreference=primary&directConnection=true&ssl=false" --out "C:\Users\sandeep\Downloads\Mongo Dump from server\dump"
+
+
+sudo rm -R /var/www/html/igrant/*
+
+
+mongorestore --uri "mongodb://admin:rap12345@52.255.193.173:37017/igrant?authSource=admin&readPreference=primary&directConnection=true&ssl=false" --out "C:\Users\sandeep\Downloads\Mongo Dump from server\dump"
+
+
+
+mongorestore  --uri "mongodb://admin:rap12345@52.255.193.173:37017/igrant?authSource=admin&readPreference=primary&directConnection=true&ssl=false" --d igrant C:\Users\sandeep\Downloads\Mongo Dump from server\dump
+
+mongorestore  --host=52.255.193.173 --port=37017 --username=admin --password=rap12345 "C:\Users\sandeep\Downloads\Mongo Dump from server\dump"
