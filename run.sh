@@ -14,6 +14,6 @@ sudo chmod -R 777 /var/www/html/
 sudo cp -r default /etc/nginx/sites-available/
 sudo nginx -s reload
 cd -
-cd mongo-dump
+cd mongo-dump/igrant/
 #this will dump the database backup to mongodb
 docker exec -i igrant_mongo /usr/bin/mongorestore  --host=localhost  --username=admin --password=rap12345
